@@ -1,7 +1,8 @@
 package base;
 /*
  *  UCF COP3330 Summer 2021 Assignment 1 Solution
- *  Copyright 2021 first_name last_name
+ *  Copyright 2021 Ann Binus
+ 
 Exercise 21 - Numbers to Names
 Many programs display information to the end user in one form but use a different form inside the program. For example, you may show the word Blue on the screen, but behind the scenes you’ll have a numerical value for that color or an internal value because you may need to represent the textual description in another language for Spanish-speaking visitors.
 
